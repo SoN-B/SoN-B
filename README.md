@@ -1,4 +1,5 @@
-## SoNB 😊
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello&fontSize=70&fontAlign=70&desc=I'm%20SoNB&descSize=30&descAlign=90&descAlignY=50)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoN-B&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoN-B&layout=compact)](https://github.com/SoN-B/github-readme-stats)
 
