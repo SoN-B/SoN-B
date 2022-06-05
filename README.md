@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello&fontSize=70&fontAlign=70&desc=I'm%20SoNB&descSize=30&descAlign=90&descAlignY=50)
 
+<div align="center">
+
+##sdf  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoN-B&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoN-B&layout=compact)](https://github.com/SoN-B/github-readme-stats)
 
-<div align="center">
 ## 💪Skills
 #### Languages & Others
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C&logoColor=white)
@@ -29,4 +32,5 @@
 ## 📬Flatform
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/wjdgh2709)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/cc4bd1f0592b4ba2b03bb0a32acd9148)
+
 <div>
