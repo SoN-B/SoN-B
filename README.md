@@ -1,5 +1,4 @@
 ## SoNB 😊
-백엔드 개발 준비생
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoN-B&show_icons=true&theme=dark)
 
 
