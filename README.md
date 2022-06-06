@@ -2,7 +2,6 @@
 ## 🙋‍♂️Introduction
 > 현재 백엔드 개발 준비생으로💻, CSW라는 자율 스터디를 운영하며, Discord, Notion으로 많은 분들과 함께 직접 지식 & 정보 공유, 코딩 실습, 프로젝트 등 많은 활동을 해오고 있습니다! 🤗
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoN-B&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoN-B&show_icons=true&theme=dark)
 
 ## 💪Skills
