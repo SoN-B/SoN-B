@@ -27,5 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 
 ## 📬Flatform
-[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/wjdgh2709)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/cc4bd1f0592b4ba2b03bb0a32acd9148)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/wjdgh2709)
