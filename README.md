@@ -33,5 +33,5 @@
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/wjdgh2709)
 
 #### SNS
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](a0102709203834@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:a0102709203834@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.sonb/)
