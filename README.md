@@ -2,8 +2,12 @@
 ## 🙋‍♂️Introduction
 > 현재 백엔드 개발 준비생으로💻, CSW라는 자율 스터디를 운영하며, Discord, Notion으로 많은 분들과 함께 직접 지식 & 정보 공유, 코딩 실습, 프로젝트 등 많은 활동을 해오고 있습니다! 🤗
 
+<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoN-B&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SoN-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## 💪Skills
 #### Languages & Others
