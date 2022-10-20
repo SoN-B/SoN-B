@@ -43,8 +43,8 @@
 #### Flatform & SNS
 👉 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/cc4bd1f0592b4ba2b03bb0a32acd9148)
-[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/wjdgh2709)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:a0102709203834@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.sonb/) 👈
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/dev-sonb)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:a0102709203834@gmail.com) 👈
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.sonb/)-->
 
 </div>
