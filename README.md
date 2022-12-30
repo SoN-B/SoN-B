@@ -15,10 +15,11 @@
 
 #### Languages & Others
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)
+![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=flat&logo=AmazonEC2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF.svg?style=flat&logo=AmazonRDS&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat&logo=AmazonS3&logoColor=white)
 
 #### Framework
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=Node.js&logoColor=black)
