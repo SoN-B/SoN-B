@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Hello&fontSize=70&fontAlign=70&fontAlignY=38&desc=I'm%20SoNB&descSize=30&descAlign=90&descAlignY=40&rotate=13&animation=fadeIn)
-## 🙋‍♂️Introduction
+## 🙋‍♂️ Introduction
 > 현재 백엔드 개발 준비생으로💻, CSW라는 자율 스터디를 운영하며, Discord, Notion으로 많은 분들과 함께 직접 지식 & 정보 공유, 코딩 실습, 프로젝트 등 많은 활동을 해오고 있습니다! 🤗
 
 <div align=center>
@@ -9,7 +9,7 @@
 
 </div>
 
-## 💪Skills
+## 🛠 Skills
 
 <div align=center>
 
@@ -37,7 +37,7 @@
 
 </div>
 
-## 📬Contacts
+## 📬 Contacts
 
 <div align=center>
 
