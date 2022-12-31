@@ -47,5 +47,6 @@
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/dev-sonb)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:a0102709203834@gmail.com) 👈
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.sonb/)-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoN-B%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
