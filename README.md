@@ -17,18 +17,24 @@
 #### Languages & Others
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)
-![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=flat&logo=AmazonEC2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF.svg?style=flat&logo=AmazonRDS&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat&logo=AmazonS3&logoColor=white)
 
 #### Framework
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=Node.js&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)
 
-#### Database
+#### Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=flat&logo=Sequelize&logoColor=white)
+  
+#### Server
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=AmazonAWS&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=flat&logo=AmazonEC2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF.svg?style=flat&logo=AmazonRDS&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat&logo=AmazonS3&logoColor=white)
 
 #### Tools
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&logo=VisualStudio&logoColor=white)
