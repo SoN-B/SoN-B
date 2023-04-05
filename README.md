@@ -14,7 +14,7 @@
 
 <div align=center>
 
-#### Languages & Others
+#### Languages & OS
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
@@ -36,11 +36,13 @@
 ![RDS](https://img.shields.io/badge/RDS-527FFF.svg?style=flat&logo=AmazonRDS&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat&logo=AmazonS3&logoColor=white)
 
-#### Tools
+#### Tools & Others
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=flat&logo=VisualStudioCode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=white)
 
 </div>
 
