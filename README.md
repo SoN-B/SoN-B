@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=30&height=200&section=header&text=Hello&fontSize=70&fontAlign=70&fontAlignY=38&desc=I'm%20SoNB&descSize=30&descAlign=90&descAlignY=40&rotate=13&animation=twinkling&fontColor=ffffff)
 ## 🙋‍♂️ Introduction
-> 저는 꾸준하고 책임감 있는 백엔드 개발자입니다. 대학 재학 기간 중 인턴 경험을 통해 성과를 내고, 다양한 프로젝트에서 리더로 활동하였습니다. 현재는 TURU PARKING의 자동 결제 및 TURU VALET 서비스를 개선하고, 백엔드 및 인프라 개발 분야를 맡고 있습니다. 또한, GPT 기술을 활용하여 현장 모니터링을 자동화하는 등의 매출 상승에 기여하고 있습니다.
+> 대학 2학년 때 개발 동아리를 설립해 API 설계와 데이터베이스 관리 등 백엔드 역량을 키웠고, 여러 프로젝트에서 리더로 활동하며 협업과 문제 해결 능력을 강화했습니다. 이를 바탕으로 코드크레인 사 재직 당시, 난항을 겪고 있던 네트워크 접속 문제를 자진 해결하여 가비아 도메인 설정 오류를 수정했고, 감성소프트 사에서는 '날아라 자막' 앱의 로깅 기능을 직접 제안·구현해 앱 안정성을 크게 높였습니다. 이 경험들로 복잡한 문제를 신속히 분석하고 주도적으로 해결하는 능력을 갖추게 되었습니다.
+
+> 현재는 휴맥스모빌리티에서 자동결제 서비스 유지 보수 및 발렛 서비스 개선을 담당하고 있으며, 세차 파트의 백엔드 부분을 단독 개발했습니다. 또한, 네이버 스마트플레이스와의 연동을 통해 96개소 주차장에서 할인권 판매 시스템을 구축하고 유지 보수했습니다. 백엔드 개발뿐만 아니라, ElasticSearch와 Kafka를 활용한 로그 관리 및 이슈 해결, CI/CD 파이프라인 개선, 장애 관제 플랫폼으로 GPT 기술을 도입하여 현장 모니터링 자동화에도 기여하고 있습니다.
 
 <!-- <div align=center> -->
 
@@ -25,7 +27,6 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)
 
 #### Database & ORM
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=flat&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=Redis&logoColor=white)
@@ -33,7 +34,7 @@
 #### Server & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=AmazonAWS&logoColor=white)
 ![NaverCloud](https://img.shields.io/badge/NaverCloud-03C75A.svg?style=flat&logo=NAVER&logoColor=white)
-![teamcity](https://img.shields.io/badge/TeamCity-000000.svg?style=flat&logo=teamcity&logoColor=white)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)
 ![elastic](https://img.shields.io/badge/ELK-005571.svg?style=flat&logo=elastic&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 
